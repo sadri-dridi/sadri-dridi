@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Junior at Minerva University. Bachelor’s of Science in Computer Science, Concentration in Computer Science and Artificial Intelligence.<br>👯 I’m currently collaborating on Project Isaac at the Robotics Lab At UAI in Buenos Aires, Argentina.<br>🌱 I’m currently learning about Machine Learning and Artificial Intelligence.<br>💬 Ask me about Brain-Computer Interfaces and NLP!<br>⚡ Fun fact: I love boxing 🥊 <br> I studied in San Francisco, South Korea, Taiwan, India, Argentina. Next, I am going to London and Berlin! 
+🔭 Senior at Minerva University. Bachelor’s of Science in Computer Science, Concentration in Computer Science and Artificial Intelligence.<br>👯 I’m currently collaborating on Project Isaac at the Robotics Lab At UAI in Buenos Aires, Argentina.<br>🌱 I’m currently learning about Machine Learning and Artificial Intelligence.<br>💬 Ask me about Brain-Computer Interfaces and NLP!<br>⚡ Fun fact: I love boxing 🥊 <br> I studied in San Francisco, South Korea, Taiwan, India, Argentina. Next, I am going to London and Berlin! 
 
 
 ## 🌐 Socials:
