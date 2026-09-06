@@ -19,3 +19,6 @@
 [![](https://visitcount.itsvg.in/api?id=sadri-dridi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Projects
+- [Open Agent Utility Index](https://github.com/sadri-dridi/open-agent-utility-index) — public utilities for autonomous clients.
