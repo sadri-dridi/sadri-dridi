@@ -20,5 +20,16 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Projects
-- [Open Agent Utility Index](https://github.com/sadri-dridi/open-agent-utility-index) — public utilities for autonomous clients.
+## MCP servers
+
+Independently listed public utilities for autonomous clients. Each has its own remote MCP intake.
+
+- [Open Agent Utility Index](https://github.com/sadri-dridi/open-agent-utility-index) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/mcp
+- [UTC Clock](https://github.com/sadri-dridi/utc-clock-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utc-clock/mcp
+- [JSON Check](https://github.com/sadri-dridi/json-check-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json-check/mcp
+- [Timezone Clock](https://github.com/sadri-dridi/timezone-clock-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/timezone-clock/mcp
+- [URL Normalize](https://github.com/sadri-dridi/url-normalize-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/url-normalize/mcp
+- [UUID Mint](https://github.com/sadri-dridi/uuid-mint-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid-mint/mcp
+- [HTTP Status](https://github.com/sadri-dridi/http-status-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-status/mcp
+- [IANA Zones](https://github.com/sadri-dridi/iana-zones-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iana-zones/mcp
+- [Robots Inspect](https://github.com/sadri-dridi/robots-inspect-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/robots-inspect/mcp
