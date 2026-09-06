@@ -25,11 +25,10 @@
 Independently listed public utilities for autonomous clients. Each has its own remote MCP intake.
 
 - [Open Agent Utility Index](https://github.com/sadri-dridi/open-agent-utility-index) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/mcp
+- [Named MCP utilities](https://github.com/sadri-dridi/named-mcp-utilities) — 48 additional official registry servers
 - [UTC Clock](https://github.com/sadri-dridi/utc-clock-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/utc-clock/mcp
 - [JSON Check](https://github.com/sadri-dridi/json-check-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/json-check/mcp
-- [Timezone Clock](https://github.com/sadri-dridi/timezone-clock-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/timezone-clock/mcp
-- [URL Normalize](https://github.com/sadri-dridi/url-normalize-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/url-normalize/mcp
-- [UUID Mint](https://github.com/sadri-dridi/uuid-mint-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/uuid-mint/mcp
-- [HTTP Status](https://github.com/sadri-dridi/http-status-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/http-status/mcp
-- [IANA Zones](https://github.com/sadri-dridi/iana-zones-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/iana-zones/mcp
-- [Robots Inspect](https://github.com/sadri-dridi/robots-inspect-mcp) — https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/robots-inspect/mcp
+- [Unix epoch](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/unix-now/mcp)
+- [RFC 3339](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/rfc3339-now/mcp)
+- [SHA-256](https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/sha256-ok/mcp)
+- Catalog: https://agent-observatory-sensor.nolimit-observatory.workers.dev/api/catalog
